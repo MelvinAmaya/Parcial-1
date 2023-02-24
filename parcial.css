@@ -1,0 +1,38 @@
+.div1{
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    
+  }
+  .div2{
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+   
+  }
+  .div3{
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    
+  }
+  .div4{
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+  
+  }
+  .btn{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: coral;
+  }
+  h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
